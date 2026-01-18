@@ -1,0 +1,25 @@
+{
+  "name": "todowebapp",
+  "version": "1.0.0",
+  "description": "Todo webapp",
+  "keywords": [],
+  "homepage": "https://github.com/naujan/todo-webapp#readme",
+  "bugs": {
+    "url": "https://github.com/naujan/todo-webapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naujan/todo-webapp.git"
+  },
+  "license": "ISC",
+  "author": "naujan",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {}
+}
